@@ -1,4 +1,4 @@
-Features
+🚀Features
 Prompts user for an image URL
 
 Downloads and saves the image in binary mode
